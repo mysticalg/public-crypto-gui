@@ -4,6 +4,8 @@ This repository now contains a single consolidated GUI application:
 
 - `public_crypto_gui.py`
 
+Live page: [mysticalg.github.io/public-crypto-gui](https://mysticalg.github.io/public-crypto-gui/)
+
 ## What it does
 
 1. **Address Scanner (public-safe)**
@@ -34,3 +36,8 @@ Install dependency:
 ```bash
 pip install requests
 ```
+
+## Support
+
+If you'd like to support this project, you can buy me a coffee:
+[buymeacoffee.com/dhooksterm](https://buymeacoffee.com/dhooksterm)
